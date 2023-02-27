@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage[english]{babel}
+
+% Set page size and margins
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage{wrapfig}
+% Useful packages
+\usepackage{amsmath}
+\usepackage{caption}
+\usepackage{multirow}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{listings}
+
+\usepackage{blindtext}
+\usepackage{subfiles} % Best loaded last in the preamble
+
+\title{Recht van de Intellectuele Eigendom}
+\author{Filip Tan}
+\date{}
+\numberwithin{figure}{section}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Filip Tan}
+\lhead{Intellectuele Eigendom}
+\rfoot{\thepage}
+\begin{document}
+
+\input{lectures/lecture1.tex}
+
+\input{lectures/lecture2.tex}
+\input{lectures/lecture3.tex}
+
+\end{document}
