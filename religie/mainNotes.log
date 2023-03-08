@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.27)  6 MAR 2023 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.27)  6 MAR 2023 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -538,13 +538,13 @@ LaTeX Info: Redefining \nameref on input line 33.
 exmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]) (./lectures/lecture4.tex
-[2] [3]) [4] (./mainNotes.aux)
+[2] [3] [4]) [5] (./mainNotes.aux)
 Package rerunfilecheck Info: File `mainNotes.out' has not changed.
 (rerunfilecheck)             Checksum: EA08BDC7BF414C91787CBBA719A04E14;800.
  ) 
 Here is how much of TeX's memory you used:
- 14535 strings out of 478268
- 235148 string characters out of 5846347
+ 14536 strings out of 478268
+ 235154 string characters out of 5846347
  571542 words of memory out of 5000000
  32535 multiletter control sequences out of 15000+600000
  472271 words of font info for 38 fonts, out of 8000000 for 9000
@@ -558,10 +558,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on mainNotes.pdf (4 pages, 114291 bytes).
+Output written on mainNotes.pdf (5 pages, 118206 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 31 named destinations out of 1000 (max. 500000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 32 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
